@@ -1,0 +1,22 @@
+{
+  "editor.lineHeight": 2,
+  "editor.stickyScroll.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.folding": false,
+  "editor.glyphMargin": false,
+  "editor.lightbulb.enabled": "off",
+  "explorer.compactFolders": false,
+  "breadcrumbs.enabled": false,
+  "files.autoSave": "afterDelay",
+  "telemetry.telemetryLevel": "off",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.tips.enabled": false,
+  "workbench.tree.indent": 24,
+  "workbench.startupEditor": "none",
+  "workbench.statusBar.visible": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.localHistory.enabled": false,
+  "workbench.activityBar.location": "top",
+  "window.menuBarVisibility": "compact",
+  "window.commandCenter": false
+}
