@@ -8,6 +8,10 @@
   "explorer.compactFolders": false,
   "breadcrumbs.enabled": false,
   "files.autoSave": "afterDelay",
+  "html.hover.documentation": false,
+  "html.hover.references": false,
+  "css.hover.documentation": false,
+  "css.hover.references": false,
   "telemetry.telemetryLevel": "off",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "workbench.tips.enabled": false,
@@ -16,7 +20,6 @@
   "workbench.statusBar.visible": false,
   "workbench.layoutControl.enabled": false,
   "workbench.localHistory.enabled": false,
-  "workbench.activityBar.location": "top",
   "window.menuBarVisibility": "compact",
   "window.commandCenter": false
 }
