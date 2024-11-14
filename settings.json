@@ -1,0 +1,28 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 2,
+  "editor.stickyScroll.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.folding": false,
+  "editor.glyphMargin": false,
+  "editor.lightbulb.enabled": "off",
+  "explorer.compactFolders": false,
+  "breadcrumbs.enabled": false,
+  "files.autoSave": "afterDelay",
+  "html.hover.documentation": false,
+  "html.hover.references": false,
+  "css.hover.documentation": false,
+  "css.hover.references": false,
+  "telemetry.telemetryLevel": "off",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.tips.enabled": false,
+  "workbench.tree.indent": 24,
+  "workbench.startupEditor": "none",
+  "workbench.statusBar.visible": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.localHistory.enabled": false,
+  "window.menuBarVisibility": "compact",
+  "window.commandCenter": false
+  // "php.validate.executablePath": "C:/laragon/bin/php/php-8.1.10-Win32-vs16-x64/php.exe"
+}
